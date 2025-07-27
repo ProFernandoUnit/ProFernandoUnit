@@ -16,10 +16,10 @@ Graduated in **Information Systems** from **Tiradentes University**, and holding
 ### 🚀 Tech Stack
 
 * **Frontend**: Angular, Ionic, JavaScript, TypeScript
-* **Backend**: C#, .NET, Web API, NodeJS
+* **Backend**: C#, .NET, Web API, NodeJS, Python, Java
 * **Databases**: SQL Server, MySQL, PostgreSQL, Oracle
 * **Testing**: Selenium, Unit Testing
-* **Other Tools**: SVN, Web Services, Hibernate
+* **Other Tools**: SVN, Web Services, EFCore, Hibernate
 
 ---
 
@@ -35,7 +35,7 @@ Graduated in **Information Systems** from **Tiradentes University**, and holding
 
 * Led development of the “IFS Digital” app
 * Backend integration with NodeJS
-* Technologies: Ionic, MySQL, NodeJS
+* Technologies: Ionic, MySQL, NodeJS, Python
 
 #### 🧪 Test Manager — INFOX *(Jan 2010 – Aug 2012)*
 
