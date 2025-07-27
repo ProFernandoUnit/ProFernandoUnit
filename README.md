@@ -62,8 +62,8 @@ Graduated in **Information Systems** from **Tiradentes University**, and holding
 
 ### 🌐 Get in Touch
 
-* 📫 Email: [fernando@email.com](mailto:fernando.trindade@souunit.com.br) <!-- substitua por um email real -->
-* 💼 LinkedIn: [linkedin.com/in/fernandotrindade](https://www.linkedin.com/in/fernando-trindade-1329a913) <!-- link fictício, substitua -->
+* 📫 Email: [fernando.trindade@souunit.com.br](mailto:fernando.trindade@souunit.com.br) <!-- substitua por um email real -->
+* 💼 LinkedIn: [linkedin.com/in/fernando-trindade-1329a913](https://www.linkedin.com/in/fernando-trindade-1329a913) <!-- link fictício, substitua -->
 * 🌍 Portfolio: [fernandohnrique.com](http://www.fernandohnrique.com)
 
 ---
